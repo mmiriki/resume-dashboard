@@ -82,7 +82,7 @@ const InteractiveResume = () => {
                                 <MetricCard
                                     icon={<CheckCircle size={24} className="text-blue-500" />}
                                     title="Data Accuracy"
-                                    value="100%"
+                                    value="99.5%"
                                     subtitle="Maintained in high-volume shipments"
                                     color="bg-blue-50 border-blue-100"
                                 />
@@ -196,7 +196,7 @@ const InteractiveResume = () => {
                                     <li>Spearheaded account-specific data entry automation initiatives while managing standard account coordination duties.</li>
                                     <li><span className="font-semibold">Process Automation Project:</span> Designed and deployed a custom VBA-based automation tool utilizing Windows API calls to interface between Excel datasets and legacy desktop ERP systems.</li>
                                     <li><span className="font-semibold">Operational Impact:</span> The tool parses unstructured Excel forms (invoices/load sheets) to auto-populate complex shipment logic, reducing manual data entry time by ~60% and eliminating human transposition errors.</li>
-                                    <li><span className="font-semibold">Data Integrity:</span> Managed the validation and entry of high-volume shipment data into load management systems, ensuring 100% accuracy for critical product recalls and site construction projects.</li>
+                                    <li><span className="font-semibold">Data Integrity:</span> Managed the validation and entry of high-volume shipment data into load management systems, ensuring 99.5% accuracy for critical product recalls and site construction projects.</li>
                                     <li><span className="font-semibold">Stakeholder Management:</span> Acted as the primary technical liaison between shippers, receivers, and carriers, utilizing data to identify bottlenecks and resolve delivery exceptions in real-time.</li>
                                 </ul>
                             </div>
